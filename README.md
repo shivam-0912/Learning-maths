@@ -10,5 +10,5 @@ I made this when I am leaning JS.
 - Vanilla JS
 - ES6
 
-**To view the template visit** : http://random0912.000webhostapp.com/game/</br></br>
-**To view locally** : <ul><li>Clone this repository</li><li>Open **game.html**</li></ul>
+**To play the game visit** : http://random0912.000webhostapp.com/game/</br></br>
+**To play locally** : <ul><li>Clone this repository</li><li>Open **game.html**</li></ul>
