@@ -1,0 +1,107 @@
+.body{
+    background-color: #E5E5E5;
+    margin:0px;
+    margin-top: 75px;
+    }
+.container{
+    background-color: #9DD2EA;
+    margin: 0 auto;
+    width:580px;
+    height: 500px;
+    padding :10px;
+}   
+#correct{
+    float:left;
+    background-color: greenyellow;
+    margin-left: 250px;
+    height: 40px;
+    
+    text-align:center ;
+    
+    box-shadow: 0px 4px #9DA853;
+    font-size: 18px;
+    
+} 
+.score{
+    background-color: #ECEC8F;
+    
+    color: #BAA565;
+    height: 35px;
+    line-height:normal;
+    font-size: 17px;
+    font-weight: 100;
+    float:right;
+    padding:0px 10px 7px 10px;
+    box-shadow: 0px 5px #9DA853;
+    
+}  
+.clear{
+    clear:both;
+} 
+.container2{
+    padding: 10px 60px;
+} 
+.question{
+    margin: auto;
+    background-color: #9DA0EA;
+    font-size: 110px;
+    color: black;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 40px;
+    box-shadow: 0px 4px #535AA8;
+
+}
+.text{
+    background-color:#B481D9 ;
+    box-shadow: 0px 4px #8257A9 ;
+    font-size: 17px;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 17px;
+
+}
+.button{
+    float: left;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 35px;
+    border: none;
+    box-shadow: 0px 4px #7DA8BB;
+    
+
+}
+.button:hover{
+    background-color: orange;
+    color: white;
+}
+#button1,#button2,#button3{
+    margin-right:37px ;
+}
+#button4{
+    margin-right:none ;
+}
+.start {
+    background-color:#CFE9F4 ;
+    border: none;
+    
+    border-radius: 4px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 240px;
+    margin-right: 80px;
+    padding:10px 10px;
+    box-shadow: 0px 4px #7DA8BB;
+}
+.time{
+    background-color: #B1DC50;
+    float: right;
+    margin-top: 15px;
+    box-shadow: 0px 4px #7DA8BB;
+    height: 38px;
+    font-size: 16px;
+    border-radius: 4px;
+}
